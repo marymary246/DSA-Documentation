@@ -19,3 +19,11 @@ SELECT A, B, C
 WHERE A> 45
 
 ``````
+
+
+### analysis
+
+
+
+
+
